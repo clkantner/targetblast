@@ -27,7 +27,7 @@
 * next: balloon2
 * url: /skillmap/balloon/balloon1
 * imageUrl: /static/skillmap/balloon/balloon1.gif
-* position: -1 1
+* position: -1 0
 
 
 
