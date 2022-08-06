@@ -6,7 +6,7 @@
 * backgroundurl: https://raw.githubusercontent.com/clkantner/targetblast/master/skillmap3-1.gif
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #bbeffe
+* tertiarycolor: #91e4f5
 * completednodecolor: #4a8397
 * highlightcolor: #ff0000
 * allowcodecarryover: true
@@ -27,7 +27,7 @@
 * next: balloon2
 * url: /skillmap/balloon/balloon1
 * imageUrl: /static/skillmap/balloon/balloon1.gif
-* position: -1 2
+* position: -1 1
 
 
 
@@ -39,7 +39,7 @@
 * next: balloon3
 * url: /skillmap/balloon/balloon2
 * imageUrl: /static/skillmap/balloon/balloon2.gif
-* position: 0 2
+* position: 0 1
 
 
 ### balloon3
@@ -50,7 +50,7 @@
 * next: balloon-cert
 * url: /skillmap/balloon/balloon3
 * imageUrl: /static/skillmap/backgrounds/mouse-comp.png
-* position: 1 2
+* position: 1 1
 
 
 
@@ -62,7 +62,7 @@
 * url: /static/skillmap/certificates/balloon-cert.pdf
 * imageUrl: /static/skillmap/certificates/balloon-cert.png
 * next: balloon4
-* position: 2 2
+* position: 2 1
 * actions:
     * map: [Finish the Last Level!](/skillmap/balloon)
     * editor: [Edit Your Project with a Full Toolbox](/)
@@ -84,4 +84,4 @@
 * tags: easy, clicker, sprite, buttons, multiplayer
 * url: /skillmap/balloon/balloon4
 * imageUrl: /static/skillmap/balloon/balloon4.gif
-* position: 2 3
+* position: 3 1
